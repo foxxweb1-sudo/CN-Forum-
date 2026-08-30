@@ -27,4 +27,4 @@ export interface ForumPost {
   isPinned?: boolean;
 }
 
-export const CYBENODE_LOGO_URL = "https://blogger.googleusercontent.com/img/a/AVvXsEiJaOlEw_pmmcLSEgHEvlbypc6z2lftqGtMpNWdKc1sK92j-z7FycxSHyT5x6AyLvtipW3aDjsV4McFb16-jJo1W-ZUBjZzkZHgWVAHJux-AESVfBszSMnRfaGxBB0OcexsZc5o5YA_931pVBnZ-iopGtP0vGTvk6gZPGbZOYElC80ZQrXUrDo7m-2Pgm9r=s150";
+export const CYBENODE_LOGO_URL = "https://blogger.googleusercontent.com/img/a/AVvXsEho-rNTqe4wDlAEUG77w2rWjSSDzRyfD0S7xwUJYGT-NIrKSia2ZQ5deLtnBWehHCrdkLedruQkatUp0lOjqknGWbKrp_OqFqnAWkaZ8NLH-cRlSu-hIvvtmjb4iZtJaZwkWFOtLfrZbwY49JdlayLbxCTPEDn76rRJlakQRtpXSHXuBAfHuukqZsiOm7Us";
