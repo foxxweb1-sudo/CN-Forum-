@@ -1,0 +1,6 @@
+{
+  "name": "منتدى CybeNode التقني",
+  "description": "المنتدى التقني لمنصة CybeNode لمناقشة مواضيع الأمن السيبراني، تطوير البرمجيات، السيرفرات السحابية والأنظمة التقنية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
